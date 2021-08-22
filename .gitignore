@@ -1,1 +1,5 @@
-ECHO is on.
+env/
+.pytest_cache
+.pytest_cache/
+.idea/
+__pycache__/
